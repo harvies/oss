@@ -1,1583 +1,1094 @@
 [
-    {
-        "name": "常用推荐",
-        "en_name": "Recommended",
-        "icon": "linecons-star",
-        "web": [
-            {
-                "url": "https://dribbble.com/",
-                "logo": "assets/images/logos/dribbble.png",
-                "title": "Dribbble",
-                "desc": "全球UI设计师作品分享平台。111"
-            },
-            {
-                "url": "https://behance.net/",
-                "logo": "assets/images/logos/behance.png",
-                "title": "Behance",
-                "desc": "Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。"
-            },
-            {
-                "url": "https://dribbble.com/",
-                "logo": "assets/images/logos/dribbble.png",
-                "title": "UI中国",
-                "desc": "图形交互与界面设计交流、作品展示、学习平台。"
-            },
-            {
-                "url": "http://www.zcool.com.cn/",
-                "logo": "assets/images/logos/zcool.png",
-                "title": "站酷",
-                "desc": "中国人气设计师互动平台"
-            },
-            {
-                "url": "https://www.pinterest.com/",
-                "logo": "assets/images/logos/pinterest.png",
-                "title": "Pinterest",
-                "desc": "全球美图收藏采集站"
-            },
-            {
-                "url": "http://huaban.com/",
-                "logo": "assets/images/logos/huaban.png",
-                "title": "花瓣",
-                "desc": "收集灵感,保存有用的素材"
-            },
-            {
-                "url": "https://medium.com/",
-                "logo": "assets/images/logos/medium.png",
-                "title": "Medium",
-                "desc": "高质量设计文章"
-            },
-            {
-                "url": "http://www.uisdc.com/",
-                "logo": "assets/images/logos/uisdc.png",
-                "title": "优设",
-                "desc": "设计师交流学习平台"
-            },
-            {
-                "url": "https://www.producthunt.com",
-                "logo": "assets/images/logos/producthunt.png",
-                "title": "Producthunt",
-                "desc": "发现新鲜有趣的产品"
-            },
-            {
-                "url": "https://www.youtube.com",
-                "logo": "assets/images/logos/youtube.png",
-                "title": "Youtube",
-                "desc": "全球最大的学习分享平台"
-            },
-            {
-                "url": "https://www.google.com",
-                "logo": "assets/images/logos/google.png",
-                "title": "Google",
-                "desc": "全球最大的UI学习分享平台"
-            }
+  {
+    "name": "常用推荐",
+    "icon": "linecons-star",
+    "links": [
+      {
+        "title": "云效-Maven私有仓库",
+        "url": "https://repomanage.rdc.aliyun.com/my/repo",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/alicloud.png",
+        "description": "阿里云maven私服"
+      },
+      {
+        "title": "云效-容器镜像服务",
+        "url": "https://cr.console.aliyun.com",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/alicloud.png",
+        "description": null
+      },
+      {
+        "title": "云效-流水线",
+        "url": "https://rdc.aliyun.com/ec/pipelines",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/alicloud.png",
+        "description": "阿里云代码流水线"
+      },
+      {
+        "title": "百度统计",
+        "url": "https://tongji.baidu.com/web/9898718/homepage/index",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/07/05/20204805154800049-image.png",
+        "description": "最大的中文网站分析平台"
+      },
+      {
+        "title": "Cloudflare",
+        "url": "https://dash.cloudflare.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/02/23/20202223132200047-image.png",
+        "description": "提供CDN，DNS，DDoS保护和安全性"
+      },
+      {
+        "title": "Vercel",
+        "url": "https://vercel.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/07/04/20201504191500026-image.png",
+        "description": "静态托管,目前最快的"
+      },
+      {
+        "title": "jsdelivr",
+        "url": "https://www.jsdelivr.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/07/05/20203105013100025-image.png",
+        "description": "免费的开源项目CDN(速度最快)"
+      },
+      {
+        "title": "Forestry",
+        "url": "https://app.forestry.io/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/15/20203615183600001-image.png",
+        "description": "Git-backed CMS for Gatsby, Gridsome, Eleventy, Hugo, VuePress, Jekyll, etc."
+      },
+      {
+        "title": "Keep",
+        "url": "https://keep.google.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/16/20204316114300009-image.png",
+        "description": "Google Keep"
+      },
+      {
+        "title": "YouTube",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/youtube.png",
+        "url": "https://www.youtube.com/",
+        "description": "全球最大的在线视频网站"
+      },
+      {
+        "title": "Google翻译",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/google-translate.png",
+        "url": "https://translate.google.com/",
+        "description": "Google翻译"
+      },
+      {
+        "title": "GitHub",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/github.png",
+        "url": "https://github.com/",
+        "description": "GitHub"
+      },
+      {
+        "title": "V2EX",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/v2ex.png",
+        "url": "https://v2ex.com/",
+        "description": "V站"
+      },
+      {
+        "title": "Inoreader",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/inoreader.png",
+        "url": "https://www.inoreader.com/",
+        "description": "好用的RSS订阅软件"
+      },
+      {
+        "title": "Gmail",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/gmail.png",
+        "url": "https://mail.google.com/",
+        "description": "Google邮箱"
+      },
+      {
+        "title": "不死鸟",
+        "logo": "https://tva1.sinaimg.cn/large/6f8a2832gy1g52f4fyo33j202o02oq32.jpg",
+        "url": "https://hao.su/",
+        "description": "不死鸟:专注分享图片、视频、文字的分享型网站"
+      },
+      {
+        "title": "吾爱破解论坛",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/05/20205305155300010-image.png",
+        "url": "https://www.52pojie.cn/",
+        "description": "LCG - LSG|安卓破解|病毒分析|破解软件"
+      },
+      {
+        "title": "LeetCode",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/LeetCode.png",
+        "url": "https://leetcode.com/",
+        "description": "The World's Leading Online Programming Learning Platform"
+      }
+    ]
+  },
+  {
+    "name": "搜索引擎",
+    "icon": "linecons-doc",
+    "links": [
+      {
+        "title": "Google",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/google.png",
+        "url": "https://www.google.com/",
+        "description": "Google搜索引擎"
+      },
+      {
+        "title": "百度",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/baidu.png",
+        "url": "https://www.baidu.com/",
+        "description": "最大的中文搜索引擎"
+      },
+      {
+        "title": "DuckDuckGo",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/DuckDuckGo.png",
+        "url": "https://duckduckgo.com/",
+        "description": "DuckDuckGo — 隐私保护，化繁为简。"
+      },
+      {
+        "title": "多吉搜索",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20195529125500005-image.png",
+        "url": "https://www.dogedoge.com/",
+        "description": "不追踪，不误导"
+      },
+      {
+        "title": "Magi",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/02/13/20200713150700028-image.png",
+        "url": "https://magi.com/",
+        "description": "用 AI 梳理互联网的知识引擎"
+      }
+    ]
+  },
+  {
+    "name": "个人网站",
+    "icon": "linecons-star",
+    "links": [
+      {
+        "title": "Proxy",
+        "url": "https://p.kikera.top/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "description": null
+      },
+      {
+        "title": "Notes",
+        "url": "https://github.com/harvies/notes/issues",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "description": null
+      },
+      {
+        "title": "Disk",
+        "url": "https://go.kikera.top",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "description": null
+      },
+      {
+        "title": "IMG-Paste",
+        "url": "https://oss-ui.kikera.top/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/02/13/20201013151000046-image.png",
+        "description": "个人图床"
+      }
+    ]
+  },
+  {
+    "name": "RSS推荐",
+    "icon": "linecons-doc",
+    "links": [
+      {
+        "title": "RSSHub",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/05/20205305165300027-image.png",
+        "url": "https://docs.rsshub.app/",
+        "description": "万物皆可 RSS"
+      },
+      {
+        "title": "RSS.app",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/05/20200205170200016-image.png",
+        "url": "https://rss.app/",
+        "description": "Instagram,Twitter,Facebook等国外网站Rss"
+      },
+      {
+        "title": "Weibo to RSS",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/05/20205105165100014-image.png",
+        "url": "https://rssfeed.today/weibo/",
+        "description": "优雅地使用 RSS 阅读器订阅喜欢的微博博主，让你的时间不再被碎片垃圾信息绑架。"
+      }
+    ]
+  },
+  {
+    "name": "社区资讯",
+    "icon": "linecons-doc",
+    "links": [
+      {
+        "title": "开源中国",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/oschina.png",
+        "url": "https://www.oschina.net/",
+        "description": "开源中国"
+      },
+      {
+        "title": "Linux中国",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/28/20190928230900052-image.png",
+        "url": "https://linux.cn/",
+        "description": "Linux 中国◆开源社区"
+      },
+      {
+        "title": "月光博客",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20190129130100021-image.png",
+        "url": "https://www.williamlong.info/",
+        "description": "关注互联网和搜索引擎的IT科技博客"
+      }
+    ]
+  },
+  {
+    "name": "常用工具",
+    "icon": "linecons-diamond",
+    "sub": [
+      {
+        "name": "代码托管",
+        "links": [
+          {
+            "title": "阿里云-Git仓库",
+            "url": "https://code.aliyun.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/alicloud.png",
+            "description": null
+          }
         ]
-    },
-    {
-        "name": "社区资讯",
-        "en_name": "Information",
-        "icon": "linecons-star",
-        "web": [
-            {
-                "url": "https://www.leiphone.com/",
-                "logo": "assets/images/logos/leiphone.png",
-                "title": "雷锋网",
-                "desc": "人工智能和智能硬件领域的互联网科技媒体"
-            },
-            {
-                "url": "http://36kr.com/",
-                "logo": "assets/images/logos/36kr.png",
-                "title": "36kr",
-                "desc": "创业资讯、科技新闻"
-            }, 
-            {
-                "url": "https://www.digitaling.com/",
-                "logo": "assets/images/logos/digitaling.png",
-                "title": "数英网",
-                "desc": "数字媒体及职业招聘网站"
-            }, 
-            {
-                "url": "http://www.lieyunwang.com/",
-                "logo": "assets/images/logos/lieyunwang.png",
-                "title": "猎云网",
-                "desc": "互联网创业项目推荐和创业创新资讯"
-            }, 
-            {
-                "url": "http://www.woshipm.com/",
-                "logo": "assets/images/logos/woshipm.png",
-                "title": "人人都是产品经理",
-                "desc": "产品经理、产品爱好者学习交流平台"
-            }, 
-            {
-                "url": "https://www.zaodula.com/",
-                "logo": "assets/images/logos/zaodula.png",
-                "title": "互联网早读课",
-                "desc": "互联网行业深度阅读与学习平台"
-            }, 
-            {
-                "url": "http://www.chanpin100.com/",
-                "logo": "assets/images/logos/chanpin100.png",
-                "title": "产品壹佰",
-                "desc": "为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程"
-            }, 
-            {
-                "url": "http://www.pmcaff.com/",
-                "logo": "assets/images/logos/pmcaff.png",
-                "title": "PMCAFF",
-                "desc": "中国第一产品经理人气组织，专注于研究互联网产品"
-            }, 
-            {
-                "url": "http://www.iyunying.org/",
-                "logo": "assets/images/logos/iyunying.png",
-                "title": "爱运营",
-                "desc": "网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。"
-            }, 
-            {
-                "url": "http://www.niaogebiji.com/",
-                "logo": "assets/images/logos/niaogebiji.png",
-                "title": "鸟哥笔记",
-                "desc": "移动互联网第一干货平台"
-            }, 
-            {
-                "url": "http://www.gtn9.com/",
-                "logo": "assets/images/logos/gtn9.png",
-                "title": "古田路9号",
-                "desc": "国内专业品牌创意平台"
-            }, 
-            {
-                "url": "http://www.uigreat.com/",
-                "logo": "assets/images/logos/uigreat.png",
-                "title": "优阁网",
-                "desc": "UI设计师学习交流社区"
-            }
+      },
+      {
+        "name": "静态托管",
+        "links": [
+          {
+            "title": "Netlify App",
+            "url": "https://app.netlify.com",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/07/04/20201104191100031-image.png",
+            "description": "静态托管"
+          }
         ]
-    }, 
-    {
-        "name": "灵感采集",
-        "en_name": "Inspiration",
-        "icon": "linecons-lightbulb",
-        "children": [
-            {
-                "name": "发现产品",
-                "en_name": "Product",
-                "web": [
-                    {
-                        "url": "https://www.producthunt.com/",
-                        "logo": "assets/images/logos/producthunt.png",
-                        "title": "Producthunt",
-                        "desc": "发现新鲜有趣的产品"
-                    },
-                    {
-                        "url": "http://next.36kr.com/posts",
-                        "logo": "assets/images/logos/NEXT.png",
-                        "title": "NEXT",
-                        "desc": "不错过任何一个新产品"
-                    },
-                    {
-                        "url": "https://sspai.com/",
-                        "logo": "assets/images/logos/sspai.png",
-                        "title": "少数派",
-                        "desc": "高品质数字消费指南"
-                    }, 
-                    {
-                        "url": "http://liqi.io/",
-                        "logo": "assets/images/logos/liqi.png",
-                        "title": "利器",
-                        "desc": "创造者和他们的工具"
-                    },
-                    {
-                        "url": "http://today.itjuzi.com/",
-                        "logo": "assets/images/logos/today.png",
-                        "title": "Today",
-                        "desc": "为身边的新产品喝彩"
-                    },
-                    {
-                        "url": "https://faxian.appinn.com/",
-                        "logo": "assets/images/logos/appinn.png",
-                        "title": "小众软件",
-                        "desc": "在这里发现更多有趣的应用"
-                    }
-                ]
-            },
-            {
-                "name": "界面灵感",
-                "en_name": "UI Inspiration",
-                "web": [
-                    {
-                        "url": "https://www.pttrns.com/",
-                        "logo": "assets/images/logos/Pttrns.png",
-                        "title": "Pttrns",
-                        "desc": "Check out the finest collection of design patterns, resources, mobile apps and inspiration"
-                    },
-                    {
-                        "url": "http://collectui.com/",
-                        "logo": "assets/images/logos/CollectUI.png",
-                        "title": "Collect UI",
-                        "desc": "Daily inspiration collected from daily ui archive and beyond"
-                    },
-                    {
-                        "url": "http://ui.uigreat.com/",
-                        "logo": "assets/images/logos/uiuigreat.png",
-                        "title": "UI uigreat",
-                        "desc": "APP界面截图参考"
-                    },
-                    {
-                        "url": "http://androidniceties.tumblr.com/",
-                        "logo": "assets/images/logos/AndroidNiceties.png",
-                        "title": "Android Niceties",
-                        "desc": "A collection of screenshots encompassing some of the most beautiful looking Android apps"
-                    }
-                ]
-            },
-            {
-                "name": "网页灵感",
-                "en_name": "WEB Inspiration",
-                "is_hot": true,
-                "web": [
-                    {
-                        "url": "https://www.awwwards.com/'",
-                        "logo": "assets/images/logos/awwwards.png",
-                        "title": "Awwwards",
-                        "desc": "Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world."
-                    },
-                    {
-                        "url": "https://www.cssdesignawards.com/",
-                        "logo": "assets/images/logos/CSSDesignAwards.png",
-                        "title": "CSS Design Awards",
-                        "desc": "Website Awards & Inspiration - CSS Gallery"
-                    },
-                    {
-                        "url": "https://thefwa.com/",
-                        "logo": "assets/images/logos/fwa.png",
-                        "title": "The FWA",
-                        "desc": "FWA - showcasing innovation every day since 2000"
-                    },
-                    {
-                        "url": "http://www.ecommercefolio.com/",
-                        "logo": "assets/images/logos/Ecommercefolio.png",
-                        "title": "Ecommercefolio",
-                        "desc": "Only the Best Ecommerce Design Inspiration"
-                    },
-                    {
-                        "url": "http://www.lapa.ninja/",
-                        "logo": "assets/images/logos/Lapa.png",
-                        "title": "Lapa",
-                        "desc": "The best landing page design inspiration from around the web."
-                    },
-                    {
-                        "url": "http://reeoo.com/",
-                        "logo": "assets/images/logos/reeoo.png",
-                        "title": "Reeoo",
-                        "desc": "web design inspiration and website gallery"
-                    },
-                    {
-                        "url": "https://designmunk.com/",
-                        "logo": "assets/images/logos/designmunk.png",
-                        "title": "Designmunk",
-                        "desc": "Best Homepage Design Inspiration"
-                    },
-                    {
-                        "url": "https://bestwebsite.gallery/",
-                        "logo": "assets/images/logos/BWG.png",
-                        "title": "Best Websites Gallery",
-                        "desc": "Website Showcase Inspiration | Best Websites Gallery"
-                    },
-                    {
-                        "url": "http://www.pages.xyz/",
-                        "logo": "assets/images/logos/pages.png",
-                        "title": "Pages",
-                        "desc": "Curated directory of the best Pages"
-                    },
-                    {
-                        "url": "https://sitesee.co/",
-                        "logo": "assets/images/logos/SiteSee.png",
-                        "title": "SiteSee",
-                        "desc": "SiteSee is a curated gallery of beautiful, modern websites collections."
-                    },
-                    {
-                        "url": "https://www.siteinspire.com/",
-                        "logo": "assets/images/logos/siteInspire.png",
-                        "title": "Site Inspire",
-                        "desc": "A CSS gallery and showcase of the best web design inspiration."
-                    },
-                    {
-                        "url": "http://web.uedna.com/",
-                        "logo": "assets/images/logos/WebInspiration.png",
-                        "title": "WebInspiration",
-                        "desc": "网页设计欣赏,全球顶级网页设计"
-                    },
-                    {
-                        "url": "http://navnav.co/",
-                        "logo": "assets/images/logos/navnav.png",
-                        "title": "navnav",
-                        "desc": "A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web."
-                    },
-                    {
-                        "url": "https://www.reallygoodux.io/",
-                        "logo": "assets/images/logos/ReallyGoodUX.png",
-                        "title": "Really Good UX",
-                        "desc": "A library of screenshots and examples of really good UX. Brought to you by"
-                    }
-                ]
-            }
+      },
+      {
+        "name": "仓库镜像",
+        "links": [
+          {
+            "title": "Docker官方仓库",
+            "url": "https://hub.docker.com/search?type=image",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20191925231900051-image.png",
+            "description": "Docker官方仓库"
+          },
+          {
+            "title": "Maven中央仓库",
+            "url": "https://mvnrepository.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/maven.png",
+            "description": null
+          },
+          {
+            "title": "MSDN, 我告诉你",
+            "url": "https://msdn.itellyou.cn/",
+            "logo": "https://msdn.itellyou.cn/favicon.ico",
+            "description": "Windows镜像，软件下载"
+          },
+          {
+            "title": "中科大软件源",
+            "url": "http://mirrors.ustc.edu.cn/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20190725230700042-image.png",
+            "description": "USTC Open Source Software Mirror"
+          },
+          {
+            "title": "阿里云OPSX镜像站",
+            "url": "https://developer.aliyun.com/mirror",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/alicloud.png",
+            "description": "包换容器,系统(源),语言等镜像,域名解析DNS,网络授时NTP"
+          },
+          {
+            "title": "腾讯软件源",
+            "url": "https://mirrors.cloud.tencent.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/tencentcloud.png",
+            "description": null
+          },
+          {
+            "title": "华为开源镜像站",
+            "url": "https://mirrors.huaweicloud.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/huawei.png",
+            "description": null
+          },
+          {
+            "title": "网易开源镜像站",
+            "url": "http://mirrors.163.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/netease.png",
+            "description": null
+          },
+          {
+            "title": "清华大学开源软件镜像站",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192125232100044-image.png",
+            "description": null
+          },
+          {
+            "title": "淘宝 NPM 镜像",
+            "url": "http://npm.taobao.org/",
+            "logo": "https://npm.taobao.org/favicon.png",
+            "description": null
+          },
+          {
+            "title": "ArchLinuxCN源列表",
+            "url": "https://github.com/archlinuxcn/mirrorlist-repo",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/github.png",
+            "description": "Arch Linux CN Community repo mirrors list"
+          },
+          {
+            "title": "EPEL源列表",
+            "url": "https://fedoraproject.org/wiki/EPEL/zh-cn",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192025232000058-image.png",
+            "description": "企业版 Linux 附加软件包（EPEL）"
+          }
         ]
-    },
-    {
-        "name": "素材资源",
-        "en_name": "Resources",
-        "icon": "linecons-thumbs-up",
-        "children": [
-            {
-                "name": "图标素材",
-                "en_name": "Icon",
-                "web": [
-                    {
-                        "url": "https://www.iconfinder.com",
-                        "logo": "assets/images/logos/Iconfinder.png",
-                        "title": "Iconfinder",
-                        "desc": "2,100,000+ free and premium vector icons"
-                    },
-                    {
-                        "url": "http://www.iconfont.cn",
-                        "logo": "assets/images/logos/iconfont.png",
-                        "title": "iconfont",
-                        "desc": "阿里巴巴矢量图标库"
-                    },
-                    {
-                        "url": "https://iconmonstr.com",
-                        "logo": "assets/images/logos/iconmonstr.png",
-                        "title": "iconmonstr",
-                        "desc": "Free simple icons for your next project"
-                    },
-                    {
-                        "url": "http://www.iconarchive.com",
-                        "logo": "assets/images/logos/iconarchive.png",
-                        "title": "Icon Archive",
-                        "desc": "Search 590,912 free icons"
-                    },
-                    {
-                        "url": "https://findicons.com",
-                        "logo": "assets/images/logos/FindIcons.png",
-                        "title": "FindIcons",
-                        "desc": "Search through 300,000 free icons"
-                    },
-                    {
-                        "url": "https://icomoon.io/app",
-                        "logo": "assets/images/logos/IcoMoonApp.png",
-                        "title": "IcoMoonApp",
-                        "desc": "Icon Font, SVG, PDF &amp; PNG Generator"
-                    },
-                    {
-                        "url": "http://www.easyicon.net",
-                        "logo": "assets/images/logos/easyicon.png",
-                        "title": "easyicon",
-                        "desc": "PNG、ICO、ICNS格式图标搜索、图标下载服务"
-                    },
-                    {
-                        "url": "https://www.flaticon.com",
-                        "logo": "assets/images/logos/flaticon.png",
-                        "title": "flaticon",
-                        "desc": "634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT"
-                    },
-                    {
-                        "url": "http://ui-cloud.com",
-                        "logo": "assets/images/logos/UICloud.png",
-                        "title": "UICloud",
-                        "desc": "The largest user interface design database in the world"
-                    },
-                    {
-                        "url": "https://material.io/icons",
-                        "logo": "assets/images/logos/Materialicons.png",
-                        "title": "Material icons",
-                        "desc": "Access over 900 material system icons, available in a variety of sizes and densities, and as a web font"
-                    },
-                    {
-                        "url": "http://www.fontawesome.com.cn/faicons/",
-                        "logo": "assets/images/logos/fontawesomeicon.png",
-                        "title": "Font Awesome Icon",
-                        "desc": "The complete set of 675 icons in Font Awesome"
-                    },
-                    {
-                        "url": "http://ionicons.com",
-                        "logo": "assets/images/logos/ionicons.png",
-                        "title": "ion icons",
-                        "desc": "The premium icon font for Ionic Framework"
-                    },
-                    {
-                        "url": "http://simplelineicons.com",
-                        "logo": "assets/images/logos/simplelineicons.png",
-                        "title": "Simpleline Icons",
-                        "desc": "Simple line Icons pack"
-                    }
-                ]
-            },
-            {
-                "name": "LOGO设计",
-                "en_name": "Logo Design",
-                "web": [
-                    {
-                        "url": "http://www.iconsfeed.com",
-                        "logo": "assets/images/logos/iconsfeed.png",
-                        "title": "Iconsfeed",
-                        "desc": "iOS icons gallery"
-                    },
-                    {
-                        "url": "http://iosicongallery.com",
-                        "logo": "assets/images/logos/iosicongallery.png",
-                        "title": "iOS Icon Gallery",
-                        "desc": "Showcasing beautiful icon designs from the iOS App Store"
-                    },
-                    {
-                        "url": "https://worldvectorlogo.com",
-                        "logo": "assets/images/logos/worldvectorlogo.png",
-                        "title": "World Vector Logo",
-                        "desc": "Brand logos free to download"
-                    },
-                    {
-                        "url": "http://instantlogosearch.com",
-                        "logo": "assets/images/logos/InstantLogoSearch.png",
-                        "title": "Instant Logo Search",
-                        "desc": "Search & download thousands of logos instantly"
-                    }
-                ]
-            },
-            {
-                "name": "平面素材",
-                "en_name": "Graphic Design",
-                "web": [
-                    {
-                        "url": "https://www.freepik.com",
-                        "logo": "assets/images/logos/freepik.png",
-                        "title": "freepik",
-                        "desc": "More than a million free vectors, PSD, photos and free icons."
-                    },
-                    {
-                        "url": "https://wallhalla.com",
-                        "logo": "assets/images/logos/wallhalla.png",
-                        "title": "wallhalla",
-                        "desc": "Find awesome high quality wallpapers for desktop and mobile in one place."
-                    },
-                    {
-                        "url": "https://365psd.com",
-                        "logo": "assets/images/logos/365PSD.png",
-                        "title": "365PSD",
-                        "desc": "Free PSD &amp; Graphics, Illustrations"
-                    },
-                    {
-                        "url": "https://medialoot.com",
-                        "logo": "assets/images/logos/Medialoot.png",
-                        "title": "Medialoot",
-                        "desc": "Free &amp; Premium Design Resources &mdash; Medialoot"
-                    },
-                    {
-                        "url": "http://www.58pic.com",
-                        "logo": "assets/images/logos/qiantu.png",
-                        "title": "千图网",
-                        "desc": "专注免费设计素材下载的网站"
-                    },
-                    {
-                        "url": "http://588ku.com",
-                        "logo": "assets/images/logos/qianku.png",
-                        "title": "千库网",
-                        "desc": "免费png图片背景素材下载"
-                    },
-                    {
-                        "url": "http://www.ooopic.com",
-                        "logo": "assets/images/logos/wotu.png",
-                        "title": "我图网",
-                        "desc": "我图网,提供图片素材及模板下载,专注正版设计作品交易"
-                    },
-                    {
-                        "url": "http://90sheji.com",
-                        "logo": "assets/images/logos/90sheji.png",
-                        "title": "90设计",
-                        "desc": "电商设计（淘宝美工）千图免费淘宝素材库"
-                    },
-                    {
-                        "url": "http://www.nipic.com",
-                        "logo": "assets/images/logos/nipic.png",
-                        "title": "昵图网",
-                        "desc": "原创素材共享平台"
-                    },
-                    {
-                        "url": "http://www.lanrentuku.com",
-                        "logo": "assets/images/logos/lanrentuku.png",
-                        "title": "懒人图库",
-                        "desc": "懒人图库专注于提供网页素材下载"
-                    },
-                    {
-                        "url": "http://so.ui001.com",
-                        "logo": "assets/images/logos/sousucai.png",
-                        "title": "素材搜索",
-                        "desc": "设计素材搜索聚合"
-                    },
-                    {
-                        "url": "http://psefan.com",
-                        "logo": "assets/images/logos/psefan.png",
-                        "title": "PS饭团网",
-                        "desc": "不一样的设计素材库！让自己的设计与众不同！"
-                    },
-                    {
-                        "url": "http://www.sccnn.com",
-                        "logo": "assets/images/logos/sccnn.png",
-                        "title": "素材中国",
-                        "desc": "免费素材共享平台"
-                    }
-                ]
-            },
-            {
-                "name": "UI资源",
-                "en_name": "UI Design",
-                "web": [
-                    {
-                        "url": "https://freebiesbug.com",
-                        "logo": "assets/images/logos/freebiesbug.png",
-                        "title": "Freebiesbug",
-                        "desc": "Hand-picked resources for web designer and developers, constantly updated."
-                    },
-                    {
-                        "url": "https://freebiesupply.com",
-                        "logo": "assets/images/logos/freebiesupply.png",
-                        "title": "Freebie Supply",
-                        "desc": "Free Resources For Designers"
-                    },
-                    {
-                        "url": "https://www.yrucd.com",
-                        "logo": "assets/images/logos/yrucd.png",
-                        "title": "云瑞",
-                        "desc": "优秀设计资源的分享网站"
-                    },
-                    {
-                        "url": "https://designmodo.com",
-                        "logo": "assets/images/logos/Designmodo.png",
-                        "title": "Designmodo",
-                        "desc": "Web Design Blog and Shop"
-                    },
-                    {
-                        "url": "https://xituqu.com",
-                        "logo": "assets/images/logos/xituqu.png",
-                        "title": "稀土区",
-                        "desc": "优质设计开发资源分享"
-                    },
-                    {
-                        "url": "https://ui8.net",
-                        "logo": "assets/images/logos/ui8.png",
-                        "title": "ui8",
-                        "desc": "UI Kits, Wireframe Kits, Templates, Icons and More"
-                    },
-                    {
-                        "url": "https://www.uplabs.com",
-                        "logo": "assets/images/logos/uplabs.png",
-                        "title": "uplabs",
-                        "desc": "Daily resources for product designers & developers"
-                    },
-                    {
-                        "url": "http://www.uikit.me",
-                        "logo": "assets/images/logos/uikitme.png",
-                        "title": "UIkit.me",
-                        "desc": "最便捷新鲜的uikit资源下载网站"
-                    },
-                    {
-                        "url": "http://www.fribbble.com",
-                        "logo": "assets/images/logos/Fribbble.png",
-                        "title": "Fribbble",
-                        "desc": "Free PSD files and other free design resources by Dribbblers."
-                    },
-                    {
-                        "url": "http://principlerepo.com",
-                        "logo": "assets/images/logos/PrincipleRepo.png",
-                        "title": "PrincipleRepo",
-                        "desc": "Free, High Quality Principle Resources"
-                    }
-                ]
-            },
-            {
-                "name": "Sketch资源",
-                "en_name": "Sketch",
-                "web": [
-                    {
-                        "url": "https://sketchapp.com",
-                        "logo": "assets/images/logos/Sketch.png",
-                        "title": "Sketch",
-                        "desc": "The digital design toolkit"
-                    },
-                    {
-                        "url": "http://utom.design/measure",
-                        "logo": "assets/images/logos/SketchMeasure.png",
-                        "title": "Sketch Measure",
-                        "desc": "Friendly user interface offers you a more intuitive way of making marks."
-                    },
-                    {
-                        "url": "https://www.sketchappsources.com",
-                        "logo": "assets/images/logos/sketchappsources.png",
-                        "title": "Sketch App Sources",
-                        "desc": "Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch"
-                    },
-                    {
-                        "url": "http://www.sketch.im",
-                        "logo": "assets/images/logos/sketchIm.png",
-                        "title": "Sketch.im",
-                        "desc": "Sketch 相关资源汇聚"
-                    },
-                    {
-                        "url": "http://sketchhunt.com",
-                        "logo": "assets/images/logos/sketchhunt.png",
-                        "title": "Sketch Hunt",
-                        "desc": "Sketch Hunt is an independent blog sharing gems in learning, plugins &amp; design tools for fans of Sketch app."
-                    },
-                    {
-                        "url": "http://www.sketchcn.com",
-                        "logo": "assets/images/logos/sketchcn.png",
-                        "title": "Sketch中文网",
-                        "desc": "分享最新的Sketch中文手册"
-                    },
-                    {
-                        "url": "https://awesome-sket.ch",
-                        "logo": "assets/images/logos/AwesomeSketchPlugins.png",
-                        "title": "Awesome Sketch Plugins",
-                        "desc": "A collection of really useful Sketch plugins."
-                    },
-                    {
-                        "url": "https://www.sketchcasts.net",
-                        "logo": "assets/images/logos/sketchcasts.png",
-                        "title": "Sketchcasts",
-                        "desc": "Learn Sketch Train your design skills with a weekly video tutorial"
-                    }
-                ]
-            },
-            {
-                "name": "字体资源",
-                "en_name": "Fonts",
-                "web": [
-                    {
-                        "url": "https://fonts.google.com",
-                        "logo": "assets/images/logos/googlefont.png",
-                        "title": "Google Font",
-                        "desc": "Making the web more beautiful, fast, and open through great typography"
-                    },
-                    {
-                        "url": "https://typekit.com",
-                        "logo": "assets/images/logos/typekit.png",
-                        "title": "Typekit",
-                        "desc": "Quality fonts from the world’s best foundries."
-                    },
-                    {
-                        "url": "http://www.foundertype.com",
-                        "logo": "assets/images/logos/Fondertype.png",
-                        "title": "方正字库",
-                        "desc": "方正字库官方网站"
-                    },
-                    {
-                        "url": "http://ziticq.com",
-                        "logo": "assets/images/logos/ziticq.png",
-                        "title": "字体传奇网",
-                        "desc": "中国首个字体品牌设计师交流网"
-                    },
-                    {
-                        "url": "http://sicangziti.com",
-                        "logo": "assets/images/logos/sicangziti.png",
-                        "title": "私藏字体",
-                        "desc": "优质字体免费下载站"
-                    },
-                    {
-                        "url": "https://www.fontsquirrel.com",
-                        "logo": "assets/images/logos/fontsquirrel.png",
-                        "title": "Fontsquirrel",
-                        "desc": "FREE fonts for graphic designers"
-                    },
-                    {
-                        "url": "https://www.urbanfonts.com",
-                        "logo": "assets/images/logos/UrbanFonts.png",
-                        "title": "Urban Fonts",
-                        "desc": "Download Free Fonts and Free Dingbats."
-                    },
-                    {
-                        "url": "http://www.losttype.com",
-                        "logo": "assets/images/logos/losttype.png",
-                        "title": "Lost Type",
-                        "desc": "Lost Type is a Collaborative Digital Type Foundry"
-                    },
-                    {
-                        "url": "https://fonts2u.com",
-                        "logo": "assets/images/logos/fonts2u.png",
-                        "title": "FONTS2U",
-                        "desc": "Download free fonts for Windows and Macintosh."
-                    },
-                    {
-                        "url": "http://www.fontex.org",
-                        "logo": "assets/images/logos/fontex.png",
-                        "title": "Fontex",
-                        "desc": "Free Fonts to Download + Premium Typefaces"
-                    },
-                    {
-                        "url": "http://fontm.com",
-                        "logo": "assets/images/logos/FontM.png",
-                        "title": "FontM",
-                        "desc": "Free Fonts"
-                    },
-                    {
-                        "url": "http://www.myfonts.com",
-                        "logo": "assets/images/logos/MyFonts.png",
-                        "title": "My Fonts",
-                        "desc": "Fonts for Print, Products & Screens"
-                    },
-                    {
-                        "url": "https://www.dafont.com",
-                        "logo": "assets/images/logos/dafont.png",
-                        "title": "Da Font",
-                        "desc": "Archive of freely downloadable fonts."
-                    },
-                    {
-                        "url": "https://www.onlinewebfonts.com",
-                        "logo": "assets/images/logos/OnlineWebFonts.png",
-                        "title": "OnlineWebFonts",
-                        "desc": "WEB Free Fonts for Windows and Mac / Font free Download"
-                    },
-                    {
-                        "url": "http://www.abstractfonts.com",
-                        "logo": "assets/images/logos/abstractfonts.png",
-                        "title": "Abstract Fonts",
-                        "desc": "Abstract Fonts (13,866 free fonts)"
-                    }
-                ]
-            },
-            {
-                "name": "Mockup",
-                "en_name": "Mockup",
-                "web": [
-                    {
-                        "url": "https://mockup.zone",
-                        "logo": "assets/images/logos/MockupZone.png",
-                        "title": "MockupZone",
-                        "desc": "Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way."
-                    },
-                    {
-                        "url": "http://dunnnk.com",
-                        "logo": "assets/images/logos/Dunnnk.png",
-                        "title": "Dunnnk",
-                        "desc": " Generate Product Mockups For Free"
-                    },
-                    {
-                        "url": "http://www.graphberry.com",
-                        "logo": "assets/images/logos/graphberry.png",
-                        "title": "Graphberry",
-                        "desc": "Free design resources, Mockups, PSD web templates, Icons"
-                    },
-                    {
-                        "url": "http://threed.io",
-                        "logo": "assets/images/logos/threed.png",
-                        "title": "Threed",
-                        "desc": "Generate 3D Mockups right in your Browser"
-                    },
-                    {
-                        "url": "https://free.lstore.graphics",
-                        "logo": "assets/images/logos/mockupworld.png",
-                        "title": "Mockup World",
-                        "desc": "The best free Mockups from the Web"
-                    },
-                    {
-                        "url": "https://free.lstore.graphics",
-                        "logo": "assets/images/logos/lstore.png",
-                        "title": "Lstore",
-                        "desc": "Exclusive mindblowing freebies for designers and developers"
-                    },
-                    {
-                        "url": "https://www.pixeden.com",
-                        "logo": "assets/images/logos/pixeden.png",
-                        "title": "pixeden",
-                        "desc": "free web resources and graphic design templates."
-                    },
-                    {
-                        "url": "http://forgraphictm.com",
-                        "logo": "assets/images/logos/forgraphictm.png",
-                        "title": "For Graphic TM",
-                        "desc": "High Quality PSD Mockups for Graphic Designers."
-                    }
-                ]
-            },
-            {
-                "name": "摄影图库",
-                "en_name": "Free Photos",
-                "web": [
-                    {
-                        "url": "https://unsplash.com",
-                        "logo": "assets/images/logos/unsplash.png",
-                        "title": "Unsplash",
-                        "desc": "Beautiful, free photos."
-                    },
-                    {
-                        "url": "https://visualhunt.com",
-                        "logo": "assets/images/logos/visualhunt.png",
-                        "title": "visualhunt",
-                        "desc": "100% Free High Quality Photos"
-                    },
-                    {
-                        "url": "https://librestock.com",
-                        "logo": "assets/images/logos/librestock.png",
-                        "title": "librestock",
-                        "desc": "65,084 high quality do-what-ever-you-want stock photos"
-                    },
-                    {
-                        "url": "https://pixabay.com",
-                        "logo": "assets/images/logos/pixabay.png",
-                        "title": "pixabay",
-                        "desc": "可在任何地方使用的免费图片和视频"
-                    },
-                    {
-                        "url": "https://www.splitshire.com",
-                        "logo": "assets/images/logos/SplitShire.png",
-                        "title": "SplitShire",
-                        "desc": "Free Stock Photos and Videos for commercial use."
-                    },
-                    {
-                        "url": "https://stocksnap.io",
-                        "logo": "assets/images/logos/StockSnap.png",
-                        "title": "StockSnap",
-                        "desc": "Beautiful free stock photos"
-                    },
-                    {
-                        "url": "http://albumarium.com",
-                        "logo": "assets/images/logos/albumarium.png",
-                        "title": "albumarium",
-                        "desc": "The best place to find & share beautiful images"
-                    },
-                    {
-                        "url": "https://myphotopack.com",
-                        "logo": "assets/images/logos/myphotopack.png",
-                        "title": "myphotopack",
-                        "desc": "A free photo pack just for you. Every month."
-                    },
-                    {
-                        "url": "http://notaselfie.com",
-                        "logo": "assets/images/logos/notaselfie.png",
-                        "title": "Notaselfie",
-                        "desc": "Photos that happen along the way. You can use the images anyway you like. Have fun!"
-                    },
-                    {
-                        "url": "http://papers.co",
-                        "logo": "assets/images/logos/papers.png",
-                        "title": "papers",
-                        "desc": "Wallpapers Every Hour!Hand collected :)"
-                    },
-                    {
-                        "url": "http://stokpic.com",
-                        "logo": "assets/images/logos/stokpic.png",
-                        "title": "stokpic",
-                        "desc": "Free Stock Photos For Commercial Use"
-                    },
-                    {
-                        "url": "https://55mm.co/visuals",
-                        "logo": "assets/images/logos/55mm.png",
-                        "title": "55mm",
-                        "desc": "Use our FREE photos to tell your story! "
-                    },
-                    {
-                        "url": "http://thestocks.im",
-                        "logo": "assets/images/logos/thestocks.png",
-                        "title": "thestocks",
-                        "desc": "Use our FREE photos to tell your story! "
-                    },
-                    {
-                        "url": "http://freenaturestock.com",
-                        "logo": "assets/images/logos/freenaturestock.png",
-                        "title": "freenaturestock",
-                        "desc": "Exclusive mindblowing freebies for designers and developers"
-                    },
-                    {
-                        "url": "https://negativespace.co",
-                        "logo": "assets/images/logos/negativespace.png",
-                        "title": "negativespace",
-                        "desc": "Beautiful, High-Resolution Free Stock Photos"
-                    },
-                    {
-                        "url": "https://gratisography.com",
-                        "logo": "assets/images/logos/gratisography.png",
-                        "title": "gratisography",
-                        "desc": "Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions. "
-                    },
-                    {
-                        "url": "http://imcreator.com/free",
-                        "logo": "assets/images/logos/imcreator.png",
-                        "title": "imcreator",
-                        "desc": "A curated collection of free web design resources, all for commercial use."
-                    },
-                    {
-                        "url": "http://www.lifeofpix.com",
-                        "logo": "assets/images/logos/lifeofpix.png",
-                        "title": "lifeofpix",
-                        "desc": "Free high resolution photography"
-                    },
-                    {
-                        "url": "https://skitterphoto.com",
-                        "logo": "assets/images/logos/skitterphoto.png",
-                        "title": "skitterphoto",
-                        "desc": "Free Stock Photos for Creative Professionals"
-                    },
-                    {
-                        "url": "https://mmtstock.com",
-                        "logo": "assets/images/logos/mmtstock.png",
-                        "title": "mmtstock",
-                        "desc": "Free photos for commercial use"
-                    },
-                    {
-                        "url": "https://skitterphoto.com",
-                        "logo": "assets/images/logos/skitterphoto.png",
-                        "title": "skitterphoto",
-                        "desc": "a place to find, show and share public domain photos"
-                    },
-                    {
-                        "url": "https://magdeleine.co/browse",
-                        "logo": "assets/images/logos/magdeleine.png",
-                        "title": "magdeleine",
-                        "desc": "HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION"
-                    },
-                    {
-                        "url": "http://jeshoots.com",
-                        "logo": "assets/images/logos/jeshoots.png",
-                        "title": "jeshoots",
-                        "desc": "New Free Photos & Mockups in to your Inbox!"
-                    },
-                    {
-                        "url": "https://www.hdwallpapers.net",
-                        "logo": "assets/images/logos/hdwallpapers.png",
-                        "title": "hdwallpapers",
-                        "desc": "High Definition Wallpapers & Desktop Backgrounds"
-                    },
-                    {
-                        "url": "http://publicdomainarchive.com",
-                        "logo": "assets/images/logos/publicdomainarchive.png",
-                        "title": "publicdomainarchive",
-                        "desc": "New 100% Free Stock Photos. Every. Single. Week."
-                    }
-                ]
-            },
-            {
-                "name": "PPT资源",
-                "en_name": "PPT",
-                "web": [
-                    {
-                        "url": "http://www.officeplus.cn/Template/Home.shtml",
-                        "logo": "assets/images/logos/officeplus.png",
-                        "title": "OfficePLUS",
-                        "desc": "OfficePLUS，微软Office官方在线模板网站！"
-                    },
-                    {
-                        "url": "http://www.ypppt.com/",
-                        "logo": "assets/images/logos/ypppt.png",
-                        "title": "优品PPT",
-                        "desc": "高质量的模版，而且还有PPT图表，PPT背景图等资源"
-                    },
-                    {
-                        "url": "http://www.pptplus.cn/",
-                        "logo": "assets/images/logos/pptplus.png",
-                        "title": "PPT+",
-                        "desc": "PPT加直播、录制和分享—PPT+语音内容分享平台"
-                    },
-                    {
-                        "url": "http://www.pptmind.com/",
-                        "logo": "assets/images/logos/pptmind.png",
-                        "title": "PPTMind",
-                        "desc": "分享高端ppt模板与keynote模板的数字作品交易平台"
-                    },
-                    {
-                        "url": "http://www.tretars.com/ppt-templates",
-                        "logo": "assets/images/logos/tretars.png",
-                        "title": "tretars",
-                        "desc": "The best free Mockups from the Web"
-                    },
-                    {
-                        "url": "http://ppt.500d.me/",
-                        "logo": "assets/images/logos/500d.png",
-                        "title": "5百丁",
-                        "desc": "中国领先的PPT模板共享平台"
-                    }
-                ]
-            }
+      },
+      {
+        "name": "在线工具",
+        "links": [
+          {
+            "title": "IP查询",
+            "url": "http://ip-api.com/json/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/ip.png",
+            "description": "返回IP及经纬度等详细数据"
+          },
+          {
+            "title": "ToYaml",
+            "url": "https://www.toyaml.com",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/yaml.png",
+            "description": "在线yaml转properties-在线properties转yaml-ToYaml.com"
+          },
+          {
+            "title": "Convert JSON to YAML",
+            "url": "https://www.json2yaml.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20191729121700008-image.png",
+            "description": "Convert JSON to YAML and slim down your data with the json2yaml online editor"
+          },
+          {
+            "title": "Convert YAML to JSON",
+            "url": "https://www.json2yaml.com/convert-yaml-to-json",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20191729121700008-image.png",
+            "description": "Convert YAML to JSON and slim down your data with the json2yaml online editor"
+          },
+          {
+            "title": "在线Cron表达式生成器",
+            "url": "http://cron.qqe2.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+            "description": null
+          },
+          {
+            "title": "用户名生成器",
+            "url": "https://www.lastpass.com/zh/username-generator",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20194325234300020-image.png",
+            "description": "LassPass用户名生成器"
+          },
+          {
+            "title": "Emoji Cheat Sheet",
+            "url": "https://www.webfx.com/tools/emoji-cheat-sheet/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+            "description": "Github emoji 表情大全"
+          },
+          {
+            "title": "DNSPOD",
+            "url": "https://www.dnspod.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20193129123100049-image.png",
+            "description": "免费DNS解析工具"
+          },
+          {
+            "title": "NTP服务器",
+            "url": "https://www.pool.ntp.org/zone/cn",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/clock.png",
+            "description": "NTP Servers in China"
+          },
+          {
+            "title": "SEO综合查询 - 站长工具",
+            "url": "http://seo.chinaz.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/01/20204901204900026-image.png",
+            "description": "SEO综合查询 - 站长工具"
+          },
+          {
+            "title": "千寻域名资产在线搜索引擎",
+            "url": "https://www.dnsscan.cn/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+            "description": "子域名在线查询"
+          },
+          {
+            "title": "100Font",
+            "url": "https://www.100font.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20193429123400056-image.png",
+            "description": "免版权字体下载、免费商用字体下载网站"
+          },
+          {
+            "title": "Google Search Console",
+            "url": "https://search.google.com/search-console/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192229122200016-image.png",
+            "description": "Google搜索SEO工具"
+          },
+          {
+            "title": "iLoveIMG",
+            "url": "https://www.iloveimg.com",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20194025234000045-image.png",
+            "description": "图像文件在线编辑工具"
+          },
+          {
+            "title": "LogolyPro",
+            "url": "https://logoly.pro",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/LogolyPro.png",
+            "description": "A Simple Online Logo Generator"
+          },
+          {
+            "title": "云短信汇总",
+            "url": "https://harvies.github.io/2019/12/04/zai-xian-duan-xin-jie-shou-ping-tai-hui-zong/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/sms.png",
+            "description": null
+          },
+          {
+            "title": "图床服务汇总",
+            "url": "https://harvies.github.io/2019/12/04/tu-chuang-fu-wu-hui-zong/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/cdn.png",
+            "description": null
+          },
+          {
+            "title": "临时邮箱服务汇总",
+            "url": "https://harvies.github.io/2019/12/04/lin-shi-you-xiang-fu-wu-hui-zong/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/mail.png",
+            "description": null
+          },
+          {
+            "title": "GitMind",
+            "url": "https://gitmind.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192229122200055-image.png",
+            "description": "免费在线思维导图"
+          },
+          {
+            "title": "Server酱",
+            "url": "http://sc.ftqq.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/sc-tfqq.jpg",
+            "description": "推送消息到微信"
+          },
+          {
+            "title": "行政区划代码",
+            "url": "http://www.mca.gov.cn/article/sj/xzqh/2019/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/NationalEmblem.png",
+            "description": "中华人民共和国民政部-行政区划代码"
+          },
+          {
+            "title": "BugMeNot",
+            "url": "http://bugmenot.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192925232900057-image.png",
+            "description": "共享需要您注册的网站的登录信息"
+          },
+          {
+            "title": "SSL For Free",
+            "url": "https://www.sslforfree.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/27/20195227175200055-image.png",
+            "description": "免费SSL证书"
+          }
         ]
-    },
-    {
-        "name": "常用工具",
-        "en_name": "Design Tools",
-        "icon": "linecons-diamond",
-        "children": [
-            {
-                "name": "图形创意",
-                "en_name": "Creative Graphics",
-                "web": [
-                    {
-                        "url": "https://www.adobe.com/cn/products/photoshop.html",
-                        "logo": "assets/images/logos/photoshop.png",
-                        "title": "photoshop",
-                        "desc": "Photoshop不需要解释"
-                    },
-                    {
-                        "url": "https://affinity.serif.com/",
-                        "logo": "assets/images/logos/AffinityDesigner.png",
-                        "title": "Affinity Designer",
-                        "desc": "专业创意软件"
-                    },
-                    {
-                        "url": "https://www.adobe.com/cn/products/illustrator/",
-                        "logo": "assets/images/logos/Illustrator.png",
-                        "title": "Illustrator",
-                        "desc": "矢量图形和插图。"
-                    },
-                    {
-                        "url": "http://www.adobe.com/cn/products/indesign.html",
-                        "logo": "assets/images/logos/INDESIGN .png",
-                        "title": "indesign",
-                        "desc": "页面设计、布局和出版。"
-                    },
-                    {
-                        "url": "https://www.maxon.net/en/products/cinema-4d/overview/",
-                        "logo": "assets/images/logos/cinema4d.png",
-                        "title": "cinema-4d",
-                        "desc": "Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free."
-                    },
-                    {
-                        "url": "https://www.autodesk.com/products/3ds-max/overview",
-                        "logo": "assets/images/logos/3dsmax.png",
-                        "title": "3ds-max",
-                        "desc": "3D modeling, animation, and rendering software"
-                    },
-                    {
-                        "url": "https://www.blender.org/",
-                        "logo": "assets/images/logos/blender.png",
-                        "title": "Blender",
-                        "desc": "Blender is the free and open source 3D creation suite."
-                    }
-                ]
-            },
-            {
-                "name": "界面设计",
-                "en_name": "User Interface",
-                "web": [
-                    {
-                        "url": "https://sketchapp.com/",
-                        "logo": "assets/images/logos/sketchapp.png",
-                        "title": "Sketch",
-                        "desc": "The digital design toolkit"
-                    },
-                    {
-                        "url": "http://www.adobe.com/products/xd.html",
-                        "logo": "assets/images/logos/ADOBEXDCC.png",
-                        "title": "Adobe XD",
-                        "desc": "Introducing Adobe XD. Design. Prototype. Experience."
-                    },
-                    {
-                        "url": "https://www.invisionapp.com/",
-                        "logo": "assets/images/logos/invisionapp.png",
-                        "title": "invisionapp",
-                        "desc": "Powerful design prototyping tools"
-                    },
-                    {
-                        "url": "https://marvelapp.com/",
-                        "logo": "assets/images/logos/marvelapp.png",
-                        "title": "marvelapp",
-                        "desc": "Simple design, prototyping and collaboration"
-                    },
-                    {
-                        "url": "https://creative.adobe.com/zh-cn/products/download/muse",
-                        "logo": "assets/images/logos/MuseCC.png",
-                        "title": "Muse CC",
-                        "desc": "无需利用编码即可进行网站设计。"
-                    },
-                    {
-                        "url": "https://www.figma.com/",
-                        "logo": "assets/images/logos/figma.png",
-                        "title": "figma",
-                        "desc": "Design, prototype, and gather feedback all in one place with Figma."
-                    }
-                ]
-            },
-            {
-                "name": "交互动效",
-                "en_name": "Motion Design",
-                "web": [
-                    {
-                        "url": "https://www.adobe.com/cn/products/aftereffects/",
-                        "logo": "assets/images/logos/AdobeAfterEffectsCC.png",
-                        "title": "Adobe After Effects CC",
-                        "desc": "电影般的视觉效果和动态图形。"
-                    },
-                    {
-                        "url": "http://principleformac.com/",
-                        "logo": "assets/images/logos/principle.png",
-                        "title": "principle",
-                        "desc": "Animate Your Ideas, Design Better Apps"
-                    },
-                    {
-                        "url": "https://www.flinto.com/",
-                        "logo": "assets/images/logos/flinto.png",
-                        "title": "flinto",
-                        "desc": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs."
-                    },
-                    {
-                        "url": "https://framer.com/",
-                        "logo": "assets/images/logos/framer.png",
-                        "title": "framer",
-                        "desc": "Design everything from detailed icons to high-fidelity interactions—all in one place."
-                    },
-                    {
-                        "url": "http://www.protopie.cn/",
-                        "logo": "assets/images/logos/protopie.png",
-                        "title": "ProtoPie",
-                        "desc": "高保真交互原型设计"
-                    }
-                ]
-            },
-            {
-                "name": "在线配色",
-                "en_name": "Colors",
-                "web": [
-                    {
-                        "url": "http://khroma.co/generator/",
-                        "logo": "assets/images/logos/khroma.png",
-                        "title": "khroma",
-                        "desc": "Khroma is the fastest way to discover, search, and save color combos you'll want to use."
-                    },
-                    {
-                        "url": "https://uigradients.com",
-                        "logo": "assets/images/logos/uigradients.png",
-                        "title": "uigradients",
-                        "desc": "Beautiful colored gradients"
-                    },
-                    {
-                        "url": "http://gradients.io/",
-                        "logo": "assets/images/logos/gradients.png",
-                        "title": "gradients",
-                        "desc": "Curated gradients for designers and developers"
-                    },
-                    {
-                        "url": "https://webkul.github.io/coolhue/",
-                        "logo": "assets/images/logos/Coolest.png",
-                        "title": "Coolest",
-                        "desc": "Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff"
-                    },
-                    {
-                        "url": "https://webgradients.com/",
-                        "logo": "assets/images/logos/webgradients.png",
-                        "title": "webgradients",
-                        "desc": "WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. "
-                    },
-                    {
-                        "url": "https://www.grabient.com/",
-                        "logo": "assets/images/logos/grabient.png",
-                        "title": "grabient",
-                        "desc": "2017 Grabient by unfold"
-                    },
-                    {
-                        "url": "http://www.thedayscolor.com/",
-                        "logo": "assets/images/logos/thedayscolor.png",
-                        "title": "thedayscolor",
-                        "desc": "The daily color digest"
-                    },
-                    {
-                        "url": "http://flatuicolors.com/",
-                        "logo": "assets/images/logos/flatuicolors.png",
-                        "title": "flatuicolors",
-                        "desc": "Copy Paste Color Pallette from Flat UI Theme"
-                    },
-                    {
-                        "url": "https://coolors.co/",
-                        "logo": "assets/images/logos/coolors.png",
-                        "title": "coolors",
-                        "desc": "The super fast color schemes generator!"
-                    },
-                    {
-                        "url": "http://www.colorhunt.co/",
-                        "logo": "assets/images/logos/colorhunt.png",
-                        "title": "colorhunt",
-                        "desc": "Beautiful Color Palettes"
-                    },
-                    {
-                        "url": "https://color.adobe.com/zh/create/color-wheel",
-                        "logo": "assets/images/logos/AdobeColorCC.png",
-                        "title": "Adobe Color CC",
-                        "desc": "Create color schemes with the color wheel or browse thousands of color combinations from the Color community."
-                    },
-                    {
-                        "url": "http://www.flatuicolorpicker.com/",
-                        "logo": "assets/images/logos/flatuicolorpicker.png",
-                        "title": "flatuicolorpicker",
-                        "desc": "Best Flat Colors For UI Design"
-                    },
-                    {
-                        "url": "http://qrohlf.com/trianglify-generator/",
-                        "logo": "assets/images/logos/trianglify.png",
-                        "title": "trianglify",
-                        "desc": "Trianglify Generator"
-                    },
-                    {
-                        "url": "https://klart.co/colors/",
-                        "logo": "assets/images/logos/klart.png",
-                        "title": "klart",
-                        "desc": "Beautiful colors and designs to your inbox every week"
-                    },
-                    {
-                        "url": "http://www.vanschneider.com/colors",
-                        "logo": "assets/images/logos/vanschneider.png",
-                        "title": "vanschneider",
-                        "desc": "Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects."
-                    }
-                ]
-            },
-            {
-                "name": "在线工具",
-                "en_name": "Online Tools",
-                "web": [
-                    {
-                        "url": "https://tinypng.com/",
-                        "logo": "assets/images/logos/tinypng.png",
-                        "title": "tinypng",
-                        "desc": "Optimize your images with a perfect balance in quality and file size."
-                    },
-                    {
-                        "url": "http://goqr.me/",
-                        "logo": "assets/images/logos/goqr.png",
-                        "title": "goqr",
-                        "desc": "create QR codes for free (Logo, T-Shirt, vCard, EPS)"
-                    },
-                    {
-                        "url": "https://ezgif.com",
-                        "logo": "assets/images/logos/ezgif.png",
-                        "title": "ezgif",
-                        "desc": "simple online GIF maker and toolset for basic animated GIF editing."
-                    },
-                    {
-                        "url": "http://inloop.github.io/shadow4android/",
-                        "logo": "assets/images/logos/Android9patch.png",
-                        "title": "Android 9 patch",
-                        "desc": "Android 9-patch shadow generator fully customizable shadows"
-                    },
-                    {
-                        "url": "http://screensiz.es/",
-                        "logo": "assets/images/logos/screensizes.png",
-                        "title": "screen sizes",
-                        "desc": "Viewport Sizes and Pixel Densities for Popular Devices"
-                    },
-                    {
-                        "url": "https://jakearchibald.github.io/svgomg/",
-                        "logo": "assets/images/logos/svgomg.png",
-                        "title": "svgomg",
-                        "desc": "SVG在线压缩平台"
-                    },
-                    {
-                        "url": "https://www.gaoding.com",
-                        "logo": "assets/images/logos/gaoding.png",
-                        "title": "稿定抠图",
-                        "desc": "免费在线抠图软件,图片快速换背景-抠白底图"
-                    }
-                ]
-            },
-            {
-                "name": "Chrome插件",
-                "en_name": "Chrome Plug-ins",
-                "web": [
-                    {
-                        "url": "https://www.wappalyzer.com/",
-                        "logo": "assets/images/logos/wappalyzer.png",
-                        "title": "wappalyzer",
-                        "desc": "Identify technology on websites"
-                    },
-                    {
-                        "url": "http://usepanda.com/",
-                        "logo": "assets/images/logos/usepanda.png",
-                        "title": "Panda",
-                        "desc": "A smart news reader built for productivity."
-                    },
-                    {
-                        "url": "https://sizzy.co/",
-                        "logo": "assets/images/logos/sizzy.png",
-                        "title": "sizzy",
-                        "desc": "A tool for developing responsive websites crazy-fast"
-                    },
-                    {
-                        "url": "https://csspeeper.com/",
-                        "logo": "assets/images/logos/csspeeper.png",
-                        "title": "csspeeper",
-                        "desc": "Smart CSS viewer tailored for Designers."
-                    },
-                    {
-                        "url": "http://insight.io/",
-                        "logo": "assets/images/logos/insight.png",
-                        "title": "insight",
-                        "desc": "IDE-like code search and navigation, on the cloud"
-                    },
-                    {
-                        "url": "http://mustsee.earth/",
-                        "logo": "assets/images/logos/mustsee.png",
-                        "title": "mustsee",
-                        "desc": "Discover the world's most beautiful places at every opened tab."
-                    }
-                ]
-            }
+      },
+      {
+        "name": "Chrome插件",
+        "links": [
+          {
+            "title": "WEB前端助手",
+            "url": "https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/FeHelper.png",
+            "description": "WEB前端助手(FeHelper)"
+          }
         ]
-    },
-    {
-        "name": "学习教程",
-        "en_name": "Tutorial",
-        "icon": "linecons-pencil",
-        "children": [
-            {
-                "name": "设计规范",
-                "en_name": "Design Guidelines",
-                "web": [
-                    {
-                        "url": "http://designguidelines.co/",
-                        "logo": "assets/images/logos/designguidelines.png",
-                        "title": "Design Guidelines",
-                        "desc": "Design Guidelines &mdash; The way products are built."
-                    },
-                    {
-                        "url": "https://github.com/alexpate/awesome-design-systems",
-                        "logo": "assets/images/logos/awesome_design_systems.png",
-                        "title": "Awesome design systems",
-                        "desc": " A collection of awesome design systems"
-                    },
-                    {
-                        "url": "https://material.io/guidelines/",
-                        "logo": "assets/images/logos/Material_Design.png",
-                        "title": "Material Design",
-                        "desc": "Introduction - Material Design"
-                    },
-                    {
-                        "url": "https://developer.apple.com/ios/human-interface-guidelines",
-                        "logo": "assets/images/logos/human_interface_guidelines.png",
-                        "title": "Human Interface Guidelines",
-                        "desc": "Human Interface Guidelines iOS"
-                    },
-                    {
-                        "url": "http://viggoz.com/photoshopetiquette/",
-                        "logo": "assets/images/logos/photoshopetiquette.png",
-                        "title": "Photoshop Etiquette",
-                        "desc": "PS礼仪-WEB设计指南"
-                    }
-                ]
-            },
-            {
-                "name": "视频教程",
-                "en_name": "Video Tutorial",
-                "web": [
-                    {
-                        "url": "http://www.photoshoplady.com/",
-                        "logo": "assets/images/logos/PhotoshopLady.png",
-                        "title": "Photoshop Lady",
-                        "desc": "Your Favourite Photoshop Tutorials in One Place"
-                    },
-                    {
-                        "url": "http://doyoudo.com/",
-                        "logo": "assets/images/logos/doyoudo.png",
-                        "title": "doyoudo",
-                        "desc": "创意设计软件学习平台"
-                    },
-                    {
-                        "url": "http://www.c945.com/web-ui-tutorial/",
-                        "logo": "assets/images/logos/web_ui_tutorial.png",
-                        "title": "没位道",
-                        "desc": "WEB UI免费视频公开课"
-                    },
-                    {
-                        "url": "https://www.imooc.com/",
-                        "logo": "assets/images/logos/imooc.png",
-                        "title": "慕课网",
-                        "desc": "程序员的梦工厂（有UI课程）"
-                    }
-                ]
-            },
-            {
-                "name": "设计文章",
-                "en_name": "Design Article",
-                "web": [
-                    {
-                        "url": "http://www.uisdc.com/",
-                        "logo": "assets/images/logos/uisdc.png",
-                        "title": "优设网",
-                        "desc": "设计师交流学习平台"
-                    },
-                    {
-                        "url": "https://webdesignledger.com",
-                        "logo": "assets/images/logos/webdesignledger.png",
-                        "title": "Web Design Ledger",
-                        "desc": "Web Design Blog"
-                    },
-                    {
-                        "url": "https://medium.com/",
-                        "logo": "assets/images/logos/medium.png",
-                        "title": "Medium",
-                        "desc": "Read, write and share stories that matter"
-                    }
-                ]
-            },
-            {
-                "name": "设计电台",
-                "en_name": "Design FM",
-                "web": [
-                    {
-                        "url": "http://uxcoffee.co/",
-                        "logo": "assets/images/logos/uxcoffee.png",
-                        "title": "UX Coffee",
-                        "desc": "《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。"
-                    },
-                    {
-                        "url": "https://anyway.fm/",
-                        "logo": "assets/images/logos/anyway.png",
-                        "title": "Anyway.FM",
-                        "desc": "设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客"
-                    },
-                    {
-                        "url": "https://www.yineng.fm",
-                        "logo": "assets/images/logos/yineng.png",
-                        "title": "异能电台",
-                        "desc": "将全宇宙设计师的故事讲给你听。"
-                    }
-                ]
-            },
-            {
-                "name": "交互设计",
-                "en_name": "UX",
-                "is_hot": true,
-                "web": [
-                    {
-                        "url": "http://littlebigdetails.com/",
-                        "logo": "assets/images/logos/littlebigdetails.png",
-                        "title": "Little Big Details",
-                        "desc": "Little Big Details is a curated collection of the finer details of design, updated every day. "
-                    },
-                    {
-                        "url": "https://www.smashingmagazine.com/category/user-experience",
-                        "logo": "assets/images/logos/smashingmagazine.png",
-                        "title": "Smashing Magazine",
-                        "desc": "Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level."
-                    },
-                    {
-                        "url": "https://www.nngroup.com/articles/",
-                        "logo": "assets/images/logos/nngroup.png",
-                        "title": "nngroup",
-                        "desc": "Evidence-Based User Experience Research, Training, and Consulting"
-                    },
-                    {
-                        "url": "http://boxesandarrows.com/",
-                        "logo": "assets/images/logos/boxesandarrows.png",
-                        "title": "Boxes and Arrows",
-                        "desc": "Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business. "
-                    },
-                    {
-                        "url": "http://uxdesignweekly.com/",
-                        "logo": "assets/images/logos/uxdesignweekly.png",
-                        "title": "UX Design Weekly",
-                        "desc": " get a hand picked list of the best user experience design links every week. "
-                    },
-                    {
-                        "url": "http://uxren.cn/",
-                        "logo": "assets/images/logos/uxren.png",
-                        "title": "UX Ren",
-                        "desc": "用户体验人的专业社区"
-                    }
-                ]
-            }
+      },
+      {
+        "name": "矢量图标库",
+        "links": [
+          {
+            "title": "Flaticon",
+            "url": "https://www.flaticon.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/flaticon.png",
+            "description": "Flaticon"
+          },
+          {
+            "title": "阿里矢量图标库",
+            "url": "https://www.iconfont.cn/",
+            "logo": "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+            "description": "阿里巴巴矢量图标库"
+          }
         ]
-    },
-    {
-        "name": "UED团队",
-        "en_name": "UED Team",
-        "icon": "linecons-user",
-        "web": [
-            {
-                "url": "https://airbnb.design",
-                "logo": "assets/images/logos/AirbnbDesign.png",
-                "title": "Airbnb Design",
-                "desc": "Airbnb Design"
-            },
-            {
-                "url": "http://facebook.design/",
-                "logo": "assets/images/logos/FacebookDesign.png",
-                "title": "Facebook Design",
-                "desc": "Facebook Design"
-            },
-            {
-                "url": "https://design.google/",
-                "logo": "assets/images/logos/GoogleDesign.png",
-                "title": "Google Design",
-                "desc": "Google Design"
-            },
-            {
-                "url": "http://eicodesign.com/",
-                "logo": "assets/images/logos/eico.png",
-                "title": "eico design",
-                "desc": "数字化咨询与产品专家"
-            },
-            {
-                "url": "http://www.niceui.cn/",
-                "logo": "assets/images/logos/niceui.png",
-                "title": "nice design",
-                "desc": "nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司"
-            },
-            {
-                "url": "http://cdc.tencent.com/",
-                "logo": "assets/images/logos/cdc.png",
-                "title": "腾讯CDC",
-                "desc": "腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。"
-            },
-            {
-                "url": "http://tgideas.qq.com/",
-                "logo": "assets/images/logos/tgideas.png",
-                "title": "TGideas",
-                "desc": "TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队"
-            },
-            {
-                "url": "https://isux.tencent.com/",
-                "logo": "assets/images/logos/isux.png",
-                "title": "ISUX",
-                "desc": "腾讯社交用户体验设计部"
-            },
-            {
-                "url": "http://mxd.tencent.com/",
-                "logo": "assets/images/logos/mxd.png",
-                "title": "MXD",
-                "desc": "腾讯MIG无线互联网事业群设计团队"
-            },
-            {
-                "url": "http://www.aliued.com/",
-                "logo": "assets/images/logos/aliued.png",
-                "title": "Aliued",
-                "desc": "阿里巴巴国际UED团队"
-            },
-            {
-                "url": "http://www.aliued.cn/",
-                "logo": "assets/images/logos/aliuedcn.png",
-                "title": "U一点",
-                "desc": "阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队"
-            },
-            {
-                "url": "http://uedc.163.com/",
-                "logo": "assets/images/logos/uedc.png",
-                "title": "网易uedc",
-                "desc": "网易用户体验设计中心（User Experience Design Center）"
-            },
-            {
-                "url": "http://ued.baidu.com/",
-                "logo": "assets/images/logos/uedbaidu.png",
-                "title": "百度用户体验中心",
-                "desc": "百度用户体验中心"
-            },
-            {
-                "url": "http://jdc.jd.com/",
-                "logo": "assets/images/logos/jdc.png",
-                "title": "京东设计中心",
-                "desc": "京东设计中心"
-            },
-            {
-                "url": "http://eux.baidu.com/",
-                "logo": "assets/images/logos/euxbaidu.png",
-                "title": "百度企业产品用户体验中心",
-                "desc": "百度企业产品用户体验中心"
-            },
-            {
-                "url": "http://ued.ctrip.com/",
-                "logo": "assets/images/logos/ctrip.png",
-                "title": "携程设计委员会",
-                "desc": "携程设计委员会-Ctrip Design Committee"
-            }
+      },
+      {
+        "name": "其他",
+        "links": [
+          {
+            "title": "泡芙云",
+            "url": "https://www.paofuyun.vip/auth/register?code=WyQQ",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192325232300010-image.png",
+            "description": null
+          },
+          {
+            "title": "阿里云",
+            "url": "https://ecs.console.aliyun.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/alicloud.png",
+            "description": "阿里云ECS"
+          },
+          {
+            "title": "腾讯云",
+            "url": "https://console.cloud.tencent.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/tencentcloud.png",
+            "description": "腾讯云服务器"
+          },
+          {
+            "title": "有道智云",
+            "url": "https://ai.youdao.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192929122900035-image.png",
+            "description": "AI开放平台提供神经网络翻译、文字识别OCR服务以及行业解决方案，具备在线/离线翻译、在线OCR识别功能。"
+          },
+          {
+            "title": "NameSilo",
+            "url": "https://www.namesilo.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192525232500016-image.png",
+            "description": "域名注册"
+          },
+          {
+            "title": "Google Analytics",
+            "url": "https://analytics.google.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/15/20203215123200027-image.png",
+            "description": "谷歌分析"
+          },
+          {
+            "title": "Catbox",
+            "url": "https://catbox.moe/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/15/20202815182800007-image.png",
+            "description": "文件中转"
+          },
+          {
+            "title": "PPLink",
+            "url": "https://www.pplink.link/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/04/01/20203301213300007-image.png",
+            "description": "网页版的点对点连接应用"
+          },
+          {
+            "title": "Firefox Send",
+            "url": "https://send.firefox.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/04/01/20202901212900052-image.png",
+            "description": "单文件未登录1G，登录2.5G"
+          }
         ]
-    }
+      }
+    ]
+  },
+  {
+    "name": "学习教程",
+    "icon": "linecons-pencil",
+    "sub": [
+      {
+        "name": "开发规范",
+        "links": [
+          {
+            "title": "阿里巴巴Java开发手册",
+            "url": "https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/pdf.png",
+            "description": "阿里巴巴Java开发手册（华山版）"
+          }
+        ]
+      },
+      {
+        "name": "命令指南",
+        "links": [
+          {
+            "title": "git - 简易指南",
+            "url": "https://www.bootcss.com/p/git-guide/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/git.png",
+            "description": "阿里巴巴Java开发手册（华山版）"
+          },
+          {
+            "title": "Linux工具快速教程",
+            "url": "https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/28/20194928214900058-image.png",
+            "description": "Linux基础,Linux工具进阶,工具参考篇"
+          },
+          {
+            "title": "Linux命令大全",
+            "url": "https://man.linuxde.net/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20194829124800032-image.png",
+            "description": "Linux命令大全"
+          },
+          {
+            "title": "图说设计模式",
+            "url": "https://design-patterns.readthedocs.io",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/28/20194928214900058-image.png",
+            "description": "Graphic Design Patterns"
+          }
+        ]
+      },
+      {
+        "name": "官方文档",
+        "links": [
+          {
+            "title": "RocketMQ官方文档",
+            "url": "https://github.com/apache/rocketmq/tree/master/docs/cn",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/github.png",
+            "description": "中文版"
+          },
+          {
+            "title": "JDK12官方文档",
+            "url": "https://docs.oracle.com/en/java/javase/12/docs/api/index.html",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20194125234100030-image.png",
+            "description": "中文版"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "影视娱乐",
+    "icon": "linecons-user",
+    "links": [
+      {
+        "title": "高清MP4吧",
+        "url": "http://mp4ba.cc/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/mp4ba.ico",
+        "description": "免费高清电影资源下载_mp4ba.cc"
+      },
+      {
+        "title": "独播库",
+        "url": "https://www.duboku.net/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192029122000029-image.png",
+        "description": "在线电影播放网站"
+      },
+      {
+        "title": "电影蜜蜂",
+        "url": "https://www.dybee.tv/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/dybee.png",
+        "description": "高清电影资源最新电影下载"
+      },
+      {
+        "title": "搜乐资源网",
+        "url": "https://www.solezy.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/30/20194430234400010-image.png",
+        "description": "最新最快的影视资讯和在线播放"
+      },
+      {
+        "title": "海兔影院",
+        "url": "http://www.haitum.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/30/20194830234800005-image.png",
+        "description": "致力于做一个观影清爽、资源丰富、更新及时的在线影院"
+      },
+      {
+        "title": "6v电影下载网",
+        "url": "http://www.hao6v.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/30/20194930234900035-image.png",
+        "description": "每天搜集互联网最新电影和电视剧，为使用迅雷软件的用户提供最新的电影下载、电视剧下载、高清电影下载等服务"
+      },
+      {
+        "title": "黑白影视",
+        "url": "http://www.heibaiys.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/30/20195230235200036-image.png",
+        "description": "黑白影视播放彩色人生&免费在线看电影"
+      },
+      {
+        "title": "好人说",
+        "url": "https://www.haorenshuo.tv/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/30/20195730235700002-image.png",
+        "description": "致力于做最有视觉效果的资源分享网站,为您精挑细选各种高清影视大片"
+      },
+      {
+        "title": "五月影院",
+        "url": "http://www.5yueyy.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/30/20195930235900041-image.png",
+        "description": "免费在线看最新高清电影"
+      },
+      {
+        "title": "TV889",
+        "url": "http://www.tv889.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/31/20190031000000051-image.png",
+        "description": "提供粤语电影，国语电影在线观看，中文电影收录站。"
+      },
+      {
+        "title": "疯狂影视搜索",
+        "url": "http://ifkdy.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/ifkdy.ico",
+        "description": "最有用的影视搜索引擎"
+      }
+    ]
+  },
+  {
+    "name": "技术博客",
+    "icon": "linecons-user",
+    "links": [
+      {
+        "title": "Lrwin的java技术博客",
+        "url": "https://lrwinx.github.io/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192625232600043-image.png",
+        "description": "Lrwin的java技术博客"
+      },
+      {
+        "title": "美团技术团队",
+        "url": "https://tech.meituan.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/meituan.png",
+        "description": "美团技术团队官方博客"
+      },
+      {
+        "title": "阿里中间件团队博客",
+        "url": "http://jm.taobao.org/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/aliware.png",
+        "description": "阿里中间件团队博客"
+      },
+      {
+        "title": "有赞技术团队",
+        "url": "https://tech.youzan.com/",
+        "logo": "https://tech.youzan.com/content/images/2017/10/logo.png",
+        "description": "有赞技术团队博客"
+      },
+      {
+        "title": "阿里技术",
+        "url": "https://developer.aliyun.com/group/alitech",
+        "logo": "https://ucc.alicdn.com/pic/developer-ecology/e7dc27b29bdb4e918818f1c8c90f33ea.jpg",
+        "description": "阿里技术—阿里云开发者社区"
+      },
+      {
+        "title": "天猫技术",
+        "url": "https://developer.aliyun.com/group/tmalltech",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/07/04/20202604192600044-image.png",
+        "description": "天猫技术—阿里云开发者社区"
+      },
+      {
+        "title": "并发编程网",
+        "url": "http://ifeve.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192225232200030-image.png",
+        "description": "让天下没有难学的技术"
+      },
+      {
+        "title": "数据库内核月报",
+        "url": "http://mysql.taobao.org/monthly/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "description": "数据库内核月报，来自阿里云RDS-数据库内核组。"
+      },
+      {
+        "title": "拍拍贷基础框架团队博客",
+        "url": "http://techblog.ppdai.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192329122300038-image.png",
+        "description": "拍拍贷基础框架团队博客"
+      },
+      {
+        "title": "梁飞的博客",
+        "url": "https://www.iteye.com/blog/user/javatar",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/iteye.png",
+        "description": "Dubbo核心开发者个人博客"
+      },
+      {
+        "title": "陈树义 - 博客园",
+        "url": "https://www.cnblogs.com/chanshuyi/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20191029131000021-image.png",
+        "description": "主要写集合,JVM方面的文章"
+      },
+      {
+        "title": "田小波的技术博客",
+        "url": "http://www.tianxiaobo.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20193025233000054-image.png",
+        "description": "专注于 Java，Spring，MyBatis, Dubbo 以及其他分布式技术等"
+      },
+      {
+        "title": "刘伟技术博客",
+        "url": "https://blog.csdn.net/LoveLion/article/details/17517213",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/csdn.png",
+        "description": "主要写设计模式方面的文章"
+      },
+      {
+        "title": "公众号「后端进阶」",
+        "url": "https://objcoding.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20194225234200054-image.png",
+        "description": "主要写消息队列(RocketMq,Kafka)方面的文章"
+      },
+      {
+        "title": "搜云库技术团队",
+        "url": "https://tech.souyunku.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "description": "专注于Java技术系列文章的Java技术分享网站"
+      },
+      {
+        "title": "Java知音",
+        "url": "https://www.javazhiyin.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192829122800050-image.png",
+        "description": "一个专注于技术分享的网站"
+      },
+      {
+        "title": "Java技术栈",
+        "url": "https://www.javastack.cn/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192729122700047-image.png",
+        "description": "分享最新最主流的Java技术"
+      },
+      {
+        "title": "HollisChuang's Blog",
+        "url": "https://www.hollischuang.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "description": "Java干货集散地"
+      },
+      {
+        "title": "憧憬点滴记忆",
+        "url": "https://www.licoy.cn/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192829122800022-image.png",
+        "description": "Licoy's Blog关注互联网及软件IT技术的个人博客"
+      }
+    ]
+  },
+  {
+    "name": "网络安全",
+    "icon": "linecons-doc",
+    "links": [
+      {
+        "title": "纳威安全导航",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "url": "https://navisec.it/",
+        "description": "网络安全人员的上网导航"
+      },
+      {
+        "title": "FreeBuf",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/freebuf.png",
+        "url": "https://www.freebuf.com/",
+        "description": "FreeBuf互联网安全新媒体平台"
+      },
+      {
+        "title": "安全脉搏",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20193129123100003-image.png",
+        "url": "https://www.secpulse.com/",
+        "description": "分享技术，悦享品质"
+      },
+      {
+        "title": "安全客",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20193429123400017-image.png",
+        "url": "https://www.anquanke.com/",
+        "description": "安全资讯平台"
+      },
+      {
+        "title": "SecWiki",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20194525234500046-image.png",
+        "url": "https://www.sec-wiki.com/",
+        "description": "安全维基,汇集国内外优秀安全资讯、工具和网站"
+      }
+    ]
+  },
+  {
+    "name": "网址导航",
+    "icon": "linecons-user",
+    "links": [
+      {
+        "title": "渗透师",
+        "url": "https://www.shentoushi.top/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20191929121900047-image.png",
+        "description": "网络安全从业者安全导航"
+      },
+      {
+        "title": "魔米导航",
+        "url": "http://www.nmomi.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+        "description": "精品网址导航"
+      },
+      {
+        "title": "帅导航",
+        "url": "http://www.zhsh666.xyz/demo/myseo/#",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192725232700032-image.png",
+        "description": "个人专用的导航网站"
+      },
+      {
+        "title": "极客猿梦导航",
+        "url": "http://navigate.ym1024.com/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/ym1024.ico",
+        "description": "面向独立开发者的导航站"
+      },
+      {
+        "title": "聚BT",
+        "url": "https://www.jubt.net/",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20191729121700050-image.png",
+        "description": "聚合最优质的BT、磁力资源"
+      },
+      {
+        "title": "WebStack.cc",
+        "url": "http://webstack.cc",
+        "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20191729121700050-image.png",
+        "description": "设计师网址导航"
+      }
+    ]
+  },
+  {
+    "name": "资源分享",
+    "icon": "linecons-diamond",
+    "sub": [
+      {
+        "name": "综合软件",
+        "links": [
+          {
+            "title": "独木成林软件下载",
+            "url": "https://www.3xiazai.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192729122700015-image.png",
+            "description": "下载软件_免费软件下载_绿色软件下载大全"
+          },
+          {
+            "title": "发烧友",
+            "url": "https://htcui.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192525232500058-image.png",
+            "description": "专注分享精品软件资源"
+          },
+          {
+            "title": "分享者",
+            "url": "http://www.sharerw.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/sharerw.ico",
+            "description": "优质破解软件、互联网资源分享"
+          }
+        ]
+      },
+      {
+        "name": "安卓软件",
+        "links": [
+          {
+            "title": "异星软件空间",
+            "url": "http://yx.bsh.me/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/yixing.png",
+            "description": "推荐精选好用实用的软件及资源，且有详细的图文评测介绍。大量绿色、好用软件及资源下载"
+          },
+          {
+            "title": "良娣软件集合",
+            "url": "https://www.lanzous.com/b97558",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192629122600002-image.png",
+            "description": null
+          },
+          {
+            "title": "软件田园",
+            "url": "https://www.lanzous.com/u/longluobo",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192629122600002-image.png",
+            "description": "软件，破解，分享"
+          }
+        ]
+      },
+      {
+        "name": "Mac软件",
+        "links": [
+          {
+            "title": "麦克苹果商店",
+            "url": "https://macstore.info/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/24/20202324162300002-image.png",
+            "description": "麦克苹果商店是一家致力于分享Mac苹果电脑软件的下载网站"
+          },
+          {
+            "title": "MacWk",
+            "url": "https://macwk.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/01/24/20202524162500023-image.png",
+            "description": "精品mac软件下载"
+          },
+          {
+            "title": "精品MAC应用分享",
+            "url": "https://xclient.info/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20193625233600057-image.png",
+            "description": "精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务"
+          },
+          {
+            "title": "苹果软件盒子",
+            "url": "https://www.macappbox.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192529122500028-image.png",
+            "description": "mac软件下载,mac破解软件下载-分享优质苹果应用"
+          },
+          {
+            "title": "Mac Torrent Download",
+            "url": "https://mac-torrent-download.net/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20193325233300013-image.png",
+            "description": "Free Download Mac Application, Software, Plugins. Games for macOS. Over 30,000 Mac apps Torrents."
+          }
+        ]
+      },
+      {
+        "name": "IOS软件",
+        "links": [
+          {
+            "title": "挂神团队",
+            "url": "https://app.nk8686.xin/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+            "description": "IOS越狱及软件下载"
+          },
+          {
+            "title": "小新博客",
+            "url": "https://www.limufang.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20193725233700035-image.png",
+            "description": "专注于苹果应用、旧版收集、在线安装和Workflow规则制作！"
+          }
+        ]
+      },
+      {
+        "name": "BT",
+        "links": [
+          {
+            "title": "The Pirate Bay",
+            "url": "https://thepiratebay.org/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20190925230900022-image.png",
+            "description": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site"
+          },
+          {
+            "title": "种子吧",
+            "url": "http://zhongziba.biz/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/02/13/20200413150400009-image.png",
+            "description": "种子吧"
+          },
+          {
+            "title": "TorrentCCF",
+            "url": "https://et8.org/index.php",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192129122100040-image.png",
+            "description": "Private Tracker of CCF"
+          },
+          {
+            "title": "BT导航网",
+            "url": "http://wherebt.com",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192429122400058-image.png",
+            "description": "提供各种BT资源导航,收录了btsync key分享网站和BT磁力搜索网站"
+          },
+          {
+            "title": "Public Directory of BitTorrent Sync Keys",
+            "url": "https://www.btsynckeys.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20192425232400023-image.png",
+            "description": null
+          },
+          {
+            "title": "BTSync中文发布站",
+            "url": "https://btsync.org/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20193325233300045-image.png",
+            "description": "BitTorrent Sync中文社区，BTSync Keys发布站，致力增加BTSync分享度，BTSync分享社区。"
+          }
+        ]
+      },
+      {
+        "name": "电子书",
+        "links": [
+          {
+            "title": "IT熊猫",
+            "url": "https://www.itpanda.net/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/02/14/20203914113900037-image.png",
+            "description": "收集网络上的计算机书籍，相互分享"
+          },
+          {
+            "title": "ePUBw.COM",
+            "url": "https://epubw.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/29/20192429122400017-image.png",
+            "description": "免费优质电子书下载"
+          },
+          {
+            "title": "周读",
+            "url": "http://www.ireadweek.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/network.png",
+            "description": "提供免费电子书下载、分享。包括mobi、epud、pdf、txt格式，kindle电子书下载"
+          }
+        ]
+      },
+      {
+        "name": "PPT模板",
+        "links": [
+          {
+            "title": "第一PPT",
+            "url": "http://www.1ppt.com/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2020/02/13/20205913145900009-image.png",
+            "description": "免费PPT模板下载"
+          }
+        ]
+      },
+      {
+        "name": "其他",
+        "links": [
+          {
+            "title": "Telegram 大陆群组索引",
+            "url": "http://www.telegram.url.tw/China/index.html",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/nav/assets/images/logos/telegram.png",
+            "description": null
+          },
+          {
+            "title": "Telegram 群组、频道、机器人 - 汇总分享",
+            "url": "https://congcong0806.github.io/2018/04/24/Telegram/",
+            "logo": "https://cdn.jsdelivr.net/gh/harvies/oss@master/2019/12/25/20194425224400017-image.png",
+            "description": "Evernote Ambassador, Telegram, Shadowsocks, Surge, 印象笔记资深印象大使, 印象笔记年度象亲, 坚果云效率大使，幕布布道师"
+          }
+        ]
+      }
+    ]
+  }
 ]
