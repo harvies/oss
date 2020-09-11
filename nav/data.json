@@ -1,4 +1,4 @@
-getData([
+[
     {
         "name": "常用推荐",
         "en_name": "Recommended",
@@ -1580,4 +1580,4 @@ getData([
             }
         ]
     }
-])
+]
