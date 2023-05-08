@@ -1,0 +1,30 @@
+[
+  {
+    name: '开发',
+    urls: [
+      {
+        name: 'Hoppscotch', url: 'https://hoppscotch.io/',
+      }, {
+        name: 'IDEA破解', url: 'https://jetbra.in/s'
+      }
+    ]
+  },
+  {
+    name: 'AI',
+    urls: [
+      { name: 'Phind🚀', url: 'https://www.phind.com/' },
+      { name: 'GPT镜像🚀', url: 'https://chat.muspimerol.site/' },
+      { name: 'GPT镜像', url: 'https://chat.chatbot.sex/chat/' },
+      { name: 'GPT镜像🚀', url: 'http://6096e.tdchat.sbs/' },
+      { name: 'SQLCHAT🚀', url: 'https://www.sqlchat.ai/' },
+      { name: 'ORA🚀', url: 'https://ora.sh/' },
+    ]
+  }, {
+    name: '资源站',
+    urls: [
+      { name: 'BT4G', url: 'https://bt4g.org/' },
+      { name: '网盘小站', url: 'https://wpxz.org/' },
+      { name: 'BTDigg', url: 'https://btdig.com/' }
+    ]
+  }
+]
