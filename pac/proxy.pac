@@ -24,7 +24,7 @@ function FindProxyForURL(url, host) {
         || dnsDomainIs(host, ".forestry.io")
        ) {
 
-        return "HTTP router.kikera.top:60890";
+        return "HTTP api.kikera.top:60890";
     }
     return "DIRECT";
 }
