@@ -64,6 +64,10 @@
             {
                 "name": "save.tube",
                 "url": "https://save.tube/"
+            },
+            {
+                "name": "DLPanda",
+                "url": "https://dlpanda.com/"
             }
         ]
     }
