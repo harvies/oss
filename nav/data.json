@@ -57,5 +57,14 @@
                 "url": "https://btdig.com/"
             }
         ]
+    },
+    {
+        "name": "下载工具",
+        "urls": [
+            {
+                "name": "save.tube",
+                "url": "https://save.tube/"
+            }
+        ]
     }
 ]
