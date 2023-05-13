@@ -62,7 +62,7 @@
         "name": "下载工具",
         "urls": [
             {
-                "name": "save.tube",
+                "name": "SaveTube",
                 "url": "https://save.tube/"
             },
             {
