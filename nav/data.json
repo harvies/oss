@@ -94,5 +94,27 @@
                 "url":"http://ip-api.com/json/"
             }
         ]
+    },
+     {
+        "name": "建站",
+        "urls": [
+            {
+                "name":"cloudflare",
+                "url":"https://dash.cloudflare.com/"
+                
+            },
+            {
+                "name": "namesilo",
+                "url": "https://www.namesilo.com/"
+            },
+            {
+                "name":"vercel",
+                "url":"https://vercel.com"
+            },
+            {
+                "name": "netlify",
+                "url": "https://app.netlify.com/"
+            }
+        ]
     }
 ]
