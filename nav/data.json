@@ -150,6 +150,10 @@
                 "url": "https://www.4kup.net"
             },
             {
+                "name": "ailuoli",
+                "url": "https://www.ailuoli.icu/"
+            },
+            {
                 "name": "imgasd",
                 "url": "https://www.imgasd.com"
             },
@@ -160,6 +164,14 @@
             {
                 "name": "1mei",
                 "url": "https://1mei.live/"
+            },
+            {
+                "name": "stripchat",
+                "url": "https://zh.stripchat.com/"
+            },
+            {
+                "name": "麻豆社",
+                "url": "https://madou.club/"
             }
         ]
     }
