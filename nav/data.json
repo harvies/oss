@@ -82,7 +82,7 @@
                 "name": "ipsb",
                 "url": "https://api.ip.sb/ip"
             },{
-                "name":"IPAPI",
+                "name":"详细IP信息",
                 "url":"http://ip-api.com/json/"
             }
         ]
