@@ -1,5 +1,18 @@
 [
     {
+        "name": "资讯",
+        "urls": [
+            {
+                "name": "不死鸟",
+                "url": "https://iui.su/"
+            },
+            {
+                "name": "我不是矿神",
+                "url": "https://imnks.com/"
+            }
+        ]
+    },
+    {
         "name": "开发",
         "urls": [
             {
@@ -70,12 +83,12 @@
                 "url": "https://dlpanda.com/"
             },
             {
-                "name":"Mac软件",
-                "url":"https://xclient.info/"
+                "name": "Mac软件",
+                "url": "https://xclient.info/"
             },
             {
-                "name":"安卓软件",
-                "url":"https://modyolo.com/"
+                "name": "安卓软件",
+                "url": "https://modyolo.com/"
             }
         ]
     },
@@ -89,27 +102,27 @@
             {
                 "name": "ipsb",
                 "url": "https://api.ip.sb/ip"
-            },{
-                "name":"详细IP信息",
-                "url":"http://ip-api.com/json/"
+            },
+            {
+                "name": "详细IP信息",
+                "url": "http://ip-api.com/json/"
             }
         ]
     },
-     {
+    {
         "name": "建站",
         "urls": [
             {
-                "name":"cloudflare",
-                "url":"https://dash.cloudflare.com/"
-                
+                "name": "cloudflare",
+                "url": "https://dash.cloudflare.com/"
             },
             {
                 "name": "namesilo",
                 "url": "https://www.namesilo.com/"
             },
             {
-                "name":"vercel",
-                "url":"https://vercel.com"
+                "name": "vercel",
+                "url": "https://vercel.com"
             },
             {
                 "name": "netlify",
