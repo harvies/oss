@@ -70,5 +70,21 @@
                 "url": "https://dlpanda.com/"
             }
         ]
+    },
+    {
+        "name": "IP查询",
+        "urls": [
+            {
+                "name": "ipify",
+                "url": "https://api.ipify.org/?format=plain"
+            },
+            {
+                "name": "ipsb",
+                "url": "https://api.ip.sb/ip"
+            },{
+                "name":"IPAPI",
+                "url":"http://ip-api.com/json/"
+            }
+        ]
     }
 ]
