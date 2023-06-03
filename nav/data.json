@@ -129,5 +129,14 @@
                 "url": "https://app.netlify.com/"
             }
         ]
+    },
+    {
+        "name": "R18",
+        "urls": [
+            {
+                "name": "喵糖社",
+                "url": "https://www.nicesss.com/"
+            }
+        ]
     }
 ]
