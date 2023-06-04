@@ -1,178 +1,182 @@
 [
-    {
-        "name": "资讯",
-        "urls": [
-            {
-                "name": "不死鸟",
-                "url": "https://iui.su/"
-            },
-            {
-                "name": "我不是矿神",
-                "url": "https://imnks.com/"
-            }
-        ]
-    },
-    {
-        "name": "开发",
-        "urls": [
-            {
-                "name": "Hoppscotch",
-                "url": "https://hoppscotch.io/"
-            },
-            {
-                "name": "IDEA破解",
-                "url": "https://jetbra.in/s"
-            }
-        ]
-    },
-    {
-        "name": "AI",
-        "urls": [
-            {
-                "name": "Phind🚀",
-                "url": "https://www.phind.com/"
-            },
-            {
-                "name": "GPT镜像🚀",
-                "url": "https://chat.muspimerol.site/"
-            },
-            {
-                "name": "GPT镜像",
-                "url": "https://chat.chatbot.sex/chat/"
-            },
-            {
-                "name": "GPT镜像🚀",
-                "url": "http://6096e.tdchat.sbs/"
-            },
-            {
-                "name": "SQLCHAT🚀",
-                "url": "https://www.sqlchat.ai/"
-            },
-            {
-                "name": "ORA🚀",
-                "url": "https://ora.sh/"
-            }
-        ]
-    },
-    {
-        "name": "资源站",
-        "urls": [
-            {
-                "name": "BT4G",
-                "url": "https://bt4g.org/"
-            },
-            {
-                "name": "网盘小站",
-                "url": "https://wpxz.org/"
-            },
-            {
-                "name": "BTDigg",
-                "url": "https://btdig.com/"
-            },
-            {
-                "name": "sukebei",
-                "url": "https://sukebei.nyaa.si/"
-            }
-        ]
-    },
-    {
-        "name": "下载工具",
-        "urls": [
-            {
-                "name": "SaveTube",
-                "url": "https://save.tube/"
-            },
-            {
-                "name": "DLPanda",
-                "url": "https://dlpanda.com/"
-            },
-            {
-                "name": "Mac软件",
-                "url": "https://xclient.info/"
-            },
-            {
-                "name": "安卓软件",
-                "url": "https://modyolo.com/"
-            }
-        ]
-    },
-    {
-        "name": "IP查询",
-        "urls": [
-            {
-                "name": "ipify",
-                "url": "https://api.ipify.org/?format=plain"
-            },
-            {
-                "name": "ipsb",
-                "url": "https://api.ip.sb/ip"
-            },
-            {
-                "name": "详细IP信息",
-                "url": "http://ip-api.com/json/"
-            }
-        ]
-    },
-    {
-        "name": "建站",
-        "urls": [
-            {
-                "name": "cloudflare",
-                "url": "https://dash.cloudflare.com/"
-            },
-            {
-                "name": "namesilo",
-                "url": "https://www.namesilo.com/"
-            },
-            {
-                "name": "vercel",
-                "url": "https://vercel.com"
-            },
-            {
-                "name": "netlify",
-                "url": "https://app.netlify.com/"
-            }
-        ]
-    },
-    {
-        "name": "R18",
-        "urls": [
-            {
-                "name": "喵糖社",
-                "url": "https://www.nicesss.com/"
-            },
-            {
-                "name": "MrCong",
-                "url": "https://mrcong.com/"
-            },
-            {
-                "name": "4kUP",
-                "url": "https://www.4kup.net"
-            },
-            {
-                "name": "ailuoli",
-                "url": "https://www.ailuoli.icu/"
-            },
-            {
-                "name": "imgasd",
-                "url": "https://www.imgasd.com"
-            },
-            {
-                "name": "asianpink",
-                "url": "https://asianpink.net/"
-            },
-            {
-                "name": "1mei",
-                "url": "https://1mei.live/"
-            },
-            {
-                "name": "stripchat",
-                "url": "https://zh.stripchat.com/"
-            },
-            {
-                "name": "麻豆社",
-                "url": "https://madou.club/"
-            }
-        ]
-    }
+  {
+    "name": "资讯",
+    "urls": [
+      {
+        "name": "不死鸟",
+        "url": "https://iui.su/"
+      },
+      {
+        "name": "我不是矿神",
+        "url": "https://imnks.com/"
+      }
+    ]
+  },
+  {
+    "name": "开发",
+    "urls": [
+      {
+        "name": "Hoppscotch",
+        "url": "https://hoppscotch.io/"
+      },
+      {
+        "name": "IDEA破解",
+        "url": "https://jetbra.in/s"
+      }
+    ]
+  },
+  {
+    "name": "AI",
+    "urls": [
+      {
+        "name": "forefront",
+        "url": "https://chat.forefront.ai/"
+      },
+      {
+        "name": "GPT镜像",
+        "url": "https://chat.muspimerol.site/"
+      },
+      {
+        "name": "GPT镜像",
+        "url": "https://chatgpt.hare.plus/"
+      },
+      {
+        "name": "waixingyun",
+        "url": "https://chat.waixingyun.cn/"
+      },
+      {
+        "name": "Phind🚀",
+        "url": "https://www.phind.com/"
+      },
+      {
+        "name": "ORA🚀",
+        "url": "https://ora.ai/"
+      },
+      {
+        "name": "RPiList",
+        "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware"
+      }
+    ]
+  },
+  {
+    "name": "资源站",
+    "urls": [
+      {
+        "name": "BT4G",
+        "url": "https://bt4g.org/"
+      },
+      {
+        "name": "网盘小站",
+        "url": "https://wpxz.org/"
+      },
+      {
+        "name": "BTDigg",
+        "url": "https://btdig.com/"
+      },
+      {
+        "name": "sukebei",
+        "url": "https://sukebei.nyaa.si/"
+      }
+    ]
+  },
+  {
+    "name": "下载工具",
+    "urls": [
+      {
+        "name": "SaveTube",
+        "url": "https://save.tube/"
+      },
+      {
+        "name": "DLPanda",
+        "url": "https://dlpanda.com/"
+      },
+      {
+        "name": "Mac软件",
+        "url": "https://xclient.info/"
+      },
+      {
+        "name": "安卓软件",
+        "url": "https://modyolo.com/"
+      }
+    ]
+  },
+  {
+    "name": "IP查询",
+    "urls": [
+      {
+        "name": "ipify",
+        "url": "https://api.ipify.org/?format=plain"
+      },
+      {
+        "name": "ipsb",
+        "url": "https://api.ip.sb/ip"
+      },
+      {
+        "name": "详细IP信息",
+        "url": "http://ip-api.com/json/"
+      }
+    ]
+  },
+  {
+    "name": "建站",
+    "urls": [
+      {
+        "name": "cloudflare",
+        "url": "https://dash.cloudflare.com/"
+      },
+      {
+        "name": "namesilo",
+        "url": "https://www.namesilo.com/"
+      },
+      {
+        "name": "vercel",
+        "url": "https://vercel.com"
+      },
+      {
+        "name": "netlify",
+        "url": "https://app.netlify.com/"
+      }
+    ]
+  },
+  {
+    "name": "R18",
+    "urls": [
+      {
+        "name": "喵糖社",
+        "url": "https://www.nicesss.com/"
+      },
+      {
+        "name": "MrCong",
+        "url": "https://mrcong.com/"
+      },
+      {
+        "name": "4kUP",
+        "url": "https://www.4kup.net"
+      },
+      {
+        "name": "ailuoli",
+        "url": "https://www.ailuoli.icu/"
+      },
+      {
+        "name": "imgasd",
+        "url": "https://www.imgasd.com"
+      },
+      {
+        "name": "asianpink",
+        "url": "https://asianpink.net/"
+      },
+      {
+        "name": "1mei",
+        "url": "https://1mei.live/"
+      },
+      {
+        "name": "stripchat",
+        "url": "https://zh.stripchat.com/"
+      },
+      {
+        "name": "麻豆社",
+        "url": "https://madou.club/"
+      }
+    ]
+  }
 ]
