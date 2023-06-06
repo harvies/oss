@@ -1,6 +1,6 @@
 [
   {
-    "name": "资讯",
+    "name": "News",
     "urls": [
       {
         "name": "不死鸟",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "name": "开发",
+    "name": "Develop",
     "urls": [
       {
         "name": "Hoppscotch",
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "name": "资源站",
+    "name": "Resources",
     "urls": [
       {
         "name": "BT4G",
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "name": "下载工具",
+    "name": "Download",
     "urls": [
       {
         "name": "SaveTube",
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "name": "IP查询",
+    "name": "IP",
     "urls": [
       {
         "name": "ipify",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "name": "建站",
+    "name": "Website",
     "urls": [
       {
         "name": "cloudflare",
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "name": "R18",
+    "name": "Others",
     "urls": [
       {
         "name": "喵糖社",
